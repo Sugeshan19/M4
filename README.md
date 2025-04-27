@@ -28,7 +28,7 @@ int main() {
 
 
 
-![437737859-fe428eca-6482-435a-aca9-03339f7d2b17](https://github.com/user-attachments/assets/464eec36-af64-4f0e-ae77-a1098561248c)
+![437942543-f0698316-3bd1-4b5e-b7c0-06769988aea0](https://github.com/user-attachments/assets/43956821-5e23-4f02-bb2c-e380087892a2)
 
 
 
@@ -79,7 +79,9 @@ int main()
 
 ## OUTPUT
 
-![437742571-23aa3338-9c51-4f3d-b57e-0a710bd575cc](https://github.com/user-attachments/assets/38439203-9e7f-4a0f-88ac-d49ccc1c8fba)
+
+![437941679-6d8f7a05-b84b-4964-bb3d-80d09438cb86](https://github.com/user-attachments/assets/6b52d5f2-caeb-4d0a-8d97-53ba72ffd91b)
+
 
            
 ## RESULT
@@ -120,8 +122,8 @@ int main() {
 
 ## OUTPUT
 
-![437735884-8fac6327-a636-44c0-bda1-3efffec807ed](https://github.com/user-attachments/assets/ef41fb9f-01e4-410b-b135-cb6d7e99bda5)
 
+![437941748-56e529b3-b03c-495a-bf4a-4ee5b170ec75](https://github.com/user-attachments/assets/39a72dbd-8658-43ae-92fd-9c3985fd7bd0)
 
 
 ## RESULT
@@ -168,8 +170,8 @@ int main() {
 
 ## OUTPUT
 
-![437741634-80e4f0af-a5c4-402c-8a23-d0c161ca6951](https://github.com/user-attachments/assets/4712065c-c430-4be1-a2ea-654e1e0833d7)
 
+![437941807-9a3e9933-6eb7-493c-ad3f-22ca658d6ad0](https://github.com/user-attachments/assets/aba9c90a-aa97-4d50-a314-92f77a6c101c)
 
 
 
@@ -221,7 +223,8 @@ int main() {
 ## OUTPUT
 
 
- ![437736588-3ad08e45-fe25-42cb-9096-3ac052f9cfb3](https://github.com/user-attachments/assets/f9a0971b-a889-45ba-b1a1-63ff0ab476d5)
+
+![437941854-2dd622da-c9e3-4943-8ab0-67e0b0fc4d86](https://github.com/user-attachments/assets/ded82540-1a51-4580-a1f6-822b970724f7)
 
 
 ## RESULT
